@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CookCloud.iml" filepath="$PROJECT_DIR$/CookCloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CookMan.iml" filepath="$PROJECT_DIR$/CookMan.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
